@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocxParser", "DocxParser\DocxParser.csproj", "{54E2EC90-AB81-4878-B63A-E867CDFF3614}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocxParser.Console", "DocxParser.Console\DocxParser.Console.csproj", "{927781AC-46B5-42FC-B9C8-46279EEDA224}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocxParser.Sample", "DocxParser.Sample\DocxParser.Sample.csproj", "{F19DC802-B246-4C09-9343-8DF6B1869DB2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{54E2EC90-AB81-4878-B63A-E867CDFF3614}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54E2EC90-AB81-4878-B63A-E867CDFF3614}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54E2EC90-AB81-4878-B63A-E867CDFF3614}.Release|Any CPU.Build.0 = Release|Any CPU
-		{927781AC-46B5-42FC-B9C8-46279EEDA224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{927781AC-46B5-42FC-B9C8-46279EEDA224}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{927781AC-46B5-42FC-B9C8-46279EEDA224}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{927781AC-46B5-42FC-B9C8-46279EEDA224}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F19DC802-B246-4C09-9343-8DF6B1869DB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F19DC802-B246-4C09-9343-8DF6B1869DB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F19DC802-B246-4C09-9343-8DF6B1869DB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F19DC802-B246-4C09-9343-8DF6B1869DB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

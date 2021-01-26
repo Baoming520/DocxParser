@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DocxParser\DocxParser.csproj">
+      <Project>{54e2ec90-ab81-4878-b63a-e867cdff3614}</Project>
+      <Name>DocxParser</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

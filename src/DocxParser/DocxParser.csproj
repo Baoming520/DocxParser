@@ -64,10 +64,6 @@
     <Compile Include="Enums\EnumInterpreter.cs" />
     <Compile Include="Models\Cite.cs" />
     <Compile Include="Models\Code\CodeCollector.cs" />
-    <Compile Include="Models\Code\CodeCollectorForCPREST.cs" />
-    <Compile Include="Models\Code\CodeCollectorForHMSHTTP.cs" />
-    <Compile Include="Models\Code\CodeCollectorForTDS.cs" />
-    <Compile Include="Models\Code\XMLCodeCollector.cs" />
     <Compile Include="Models\Docx.cs" />
     <Compile Include="Models\DocxCode.cs" />
     <Compile Include="Models\DocxParagraph.cs" />
